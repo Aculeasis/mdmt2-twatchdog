@@ -9,7 +9,7 @@ git clone https://github.com/Aculeasis/mdmt2-twatchdog
 И перезапустить терминал.
 
 ## Настройка
-Настройки хранятся в `mdmTerminal2/src/data/twatchdog.json`, файл будет создан при первом запуске:
+Настройки хранятся в `mdmTerminal2/src/data/twatchdog_config.json`, файл будет создан при первом запуске:
 ```json
 {
     "interval": 30,
